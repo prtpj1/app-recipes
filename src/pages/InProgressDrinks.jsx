@@ -89,24 +89,24 @@ export default function InProgressDrink() {
 
   const history = useHistory();
   return (
-    <div className="details_container">
-      <div className="details_header_container">
+    <div className="recipe_container">
+      <div className="recipe_header_container">
         <img
-          className="details_img"
+          className="recipe_img"
           src={ recipe.strDrinkThumb }
           data-testid="recipe-photo"
           alt={ `receita ${recipe.strDrink}` }
         />
-        <div className="details_title_container">
+        <div className="recipe_title_container">
           <h4
-            className="details_title"
+            className="recipe_title"
             data-testid="recipe-title"
           >
             { recipe.strDrink }
 
           </h4>
           <button
-            className="details_btn"
+            className="recipe_btn"
             type="button"
             onClick={ shareRecipe }
             data-testid="share-btn"
@@ -118,12 +118,12 @@ export default function InProgressDrink() {
               : (
                 <FiShare2
                   size={ 30 }
-                  className="details_icon"
+                  className="share_icon"
                 />
               )}
           </button>
           <button
-            className="details_btn"
+            className="recipe_btn"
             type="button"
             onClick={ toggleFavorite }
           >
@@ -131,33 +131,33 @@ export default function InProgressDrink() {
               ? (
                 <MdFavorite
                   size={ 30 }
-                  className="details_icon_checked"
+                  className="fav_icon_checked"
                 />
               )
               : (
                 <MdOutlineFavoriteBorder
                   size={ 30 }
-                  className="details_icon"
+                  className="fav_icon"
                 />
               )}
           </button>
         </div>
         <div
-          className="details_category"
+          className="recipe_category"
           data-testid="recipe-category"
         >
           { recipe.strCategory }
 
         </div>
       </div>
-      <div className="details_ingredients_container">
+      <div className="recipe_ingredients_container">
         <h5>
           Ingredients:
         </h5>
         { ingredients }
       </div>
       <div
-        className="details_instructions"
+        className="recipe_instructions"
         data-testid="instructions"
       >
         <h5>
