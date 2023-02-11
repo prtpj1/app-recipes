@@ -12,12 +12,13 @@
 .login_container {
   align-items: center;
   background-color: var(--color-sec);
-  background-image: url('../images/Chef_640x360.jpg');
+  background-image: url('../images/Chef_1920x1280.jpg');
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
   flex-direction: column;
-  height: 640px;
+  height: 100vh;
   justify-content: space-evenly;
 }
 
@@ -29,7 +30,7 @@
   flex-direction: column;
   font-family: FontsTitles , sans-serif;
   padding: 12px 0;
-  width: 360px;
+  width: 100%;
 }
 
 .login_container_inputs {

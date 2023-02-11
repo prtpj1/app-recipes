@@ -106,13 +106,14 @@
 
 .recipe_start_btn {
   background-color: var(--color-accent);
-  border-radius: 0 8px 0 0;
+  border-radius: 0 0 8px;
   border-style: none;
   bottom: 0;
   color: var(--color-main);
   font-family: FontsTitles , sans-serif;
   height: 32px;
   position: fixed;
+  top: 0;
   width: 120px;
 }
 
