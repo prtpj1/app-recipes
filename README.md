@@ -57,7 +57,7 @@ Caso não saiba como fazer, siga os passos abaixo:
 ## Link para o app funcionando:
 
 
-[App Receitas](https://app-recipes-iota.vercel.app/)
+[App Receitas](https://app-recipes-iota.vercel.app/){:target="_blank"}
 
 <br>
 <br>
