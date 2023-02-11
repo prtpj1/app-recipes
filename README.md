@@ -58,6 +58,7 @@ Caso não saiba como fazer, siga os passos abaixo:
 
 
 [App Receitas](https://app-recipes-iota.vercel.app/){:target="_blank"}
+<a href="[http://...](https://app-recipes-iota.vercel.app/)" target="_blank">App Receitas</a>
 
 <br>
 <br>
