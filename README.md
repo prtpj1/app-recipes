@@ -39,7 +39,7 @@ Aprendi bastante com cada um deles:
 <br>
 
 ### Importante :warning:
-Este app foi desenvolvido com layout para dispositivos móveis (resolução recomendada: 360 x 640 de acordo com os requisitos de projeto)
+Este app foi desenvolvido com layout para dispositivos móveis (resolução recomendada: 360 x 640 de acordo com os requisitos de projeto). Por tanto, recomendo que acesse o site pelo celular e não pelo desktop ou notebook.
 
 Caso não saiba como fazer, siga os passos abaixo:
 - Com o site aberto no seu navegador, clique com o botão direito do mouse em uma area vazia da tela
@@ -54,10 +54,10 @@ Caso não saiba como fazer, siga os passos abaixo:
 
 [TheMealDB API](https://www.themealdb.com/api.php)
 
-## Demonstração da aplicação funcionando
+## Link para o app funcionando:
 
 
-https://user-images.githubusercontent.com/91347088/209994127-70933b9d-2b0d-49f1-9635-9b44f47517ab.mp4
+[App Receitas](https://app-recipes-iota.vercel.app/)
 
 <br>
 <br>
