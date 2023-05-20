@@ -7,7 +7,7 @@ Durante meu período de aprendizagem na Trybe, ajudei a desenvolver esta aplica�
 É uma aplicação de Receitas onde o usuário cadastrado pode consultar as receitas, selecionar as favoritas, filtrar suas buscas tanto para bebidas quanto comidas. 
 <br><br>
 
-Boa parte do desenvolvimento foi feito em algo similar ao pair-programing, mas com nós 4 nos ajudando mutuamente.<br>
+Boa parte do desenvolvimento foi feito em algo similar ao pair-programing, mas com nós 5 nos ajudando mutuamente.<br>
 Em outros momentos cada membro fez algumas partes do código em separado e também algumas correções e pequenas modificações.<br>
 O grupo possuía colegas de diferentes níveis e conhecimento e com isso fomos desenvolvendo com cada um contribuindo da melhor maneira que conseguia.<br><br>
 
