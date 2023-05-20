@@ -3,7 +3,7 @@
   <img src="https://github.com/prtpj1/recipes-app/blob/main/images/Header_GitHub.png" alt="Header" />
 </p>
 <hr/>
-Durante meu período de aprendizagem na Trybe, ajudei a desenvolver esta aplicação que foi um projeto em um grupo de 4 pessoas. <br>
+Durante meu período de aprendizagem na Trybe, ajudei a desenvolver esta aplicação que foi um projeto em um grupo de 5 pessoas. <br>
 É uma aplicação de Receitas onde o usuário cadastrado pode consultar as receitas, selecionar as favoritas, filtrar suas buscas tanto para bebidas quanto comidas. 
 <br><br>
 
