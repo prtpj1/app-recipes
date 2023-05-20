@@ -10,7 +10,9 @@ Durante meu período de aprendizagem na Trybe, ajudei a desenvolver esta aplica�
 Boa parte do desenvolvimento foi feito em algo similar ao pair-programing, mas com nós 5 nos ajudando mutuamente.<br>
 Em outros momentos cada membro fez algumas partes do código em separado e também algumas correções e pequenas modificações.<br>
 O grupo possuía colegas de diferentes níveis e conhecimento e com isso fomos desenvolvendo com cada um contribuindo da melhor maneira que conseguia.<br><br>
-
+Neste projeto, praticamos metodologias ágeis usando um quadro de Kanban onde estavam definidas as demandas do projeto. <br>
+O uso do Slack e Zoom também foram muito importantes para a comunicação do grupo.
+<br><br>
 Não foi apenas um trabalho de desenvolvimento, mas também de comunicação e bom relacionamento. Fico feliz em ter trabalhado e desenvolvido junto a ótimos programadores. <br>
 Aprendi bastante com cada um deles:
 - [Felipe](https://github.com/felipefraxe) 
