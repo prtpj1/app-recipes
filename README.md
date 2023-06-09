@@ -33,13 +33,13 @@ Aprendi bastante com cada um deles:
 
 ## Como rodar a aplicação?
 
-1. Clone o repositório: <br>
+- Clone o repositório: <br>
 `git clone git@github.com:prtpj1/recipes-app.git` 
-
-2. Instale as dependências: <br>
+- Acesse a pasta do projeto: <br>
+`cd recipes-app`
+- Instale as dependências: <br>
 `npm install`
-
-3. Inicie a aplicação: <br>
+- Inicie a aplicação: <br>
 `npm start` 
 <br>
 
