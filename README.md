@@ -1,4 +1,4 @@
-# 17º Projeto: App de Receitas
+# 17º Projeo: Recipes App / App de Receitas
 <p align="center">
   <img src="https://github.com/prtpj1/recipes-app/blob/main/images/Header_GitHub.png" alt="Header" />
 </p>
