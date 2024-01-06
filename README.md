@@ -34,6 +34,7 @@ I learned a lot from each of them:
 - [Ítalo](https://github.com/Italo9)
 - [João "Pasip"](https://github.com/joao-pasip)
 - [Sérgio](https://github.com/serjofrancisco)
+<hr/>
 
 ## In this project, I learned and put into practice:
 - Using React's Context API to manage state
@@ -41,6 +42,7 @@ I learned a lot from each of them:
 - Using the React Hook useContext
 - Using the React Hook useEffect
 - Creating custom Hooks
+<hr/>
 
 ## Stacks
 #### FrontEnd:
@@ -53,6 +55,7 @@ I learned a lot from each of them:
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/html2.png" width="50" height="50" alt="HTML Icon" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/CSS2.png" width="50" height="50" alt="CSS3 Icon" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/React2.png" width="50" height="50" alt="React Icon" /></a>
+<hr/>
 
 ## How to Run the Application?
 - Clone the repository: <br>
@@ -64,6 +67,7 @@ I learned a lot from each of them:
 - Start the application: <br>
 `npm start`
 <br>
+<hr/>
 
 ### Important :warning:
 This app was developed with a layout for mobile devices (recommended resolution: 360 x 640 according to project requirements). Therefore, I recommend accessing the site on your mobile device rather than on a desktop or laptop.
@@ -105,6 +109,7 @@ Aprendi bastante com cada um deles:
 - [Ítalo](https://github.com/Italo9)
 - [João "Pasip"](https://github.com/joao-pasip)
 - [Sérgio](https://github.com/serjofrancisco)
+<hr/>
 
 ## Nesse projeto, aprendi e coloquei em prática:
 - Utilizar a Context API do React para gerenciar estado
@@ -112,6 +117,7 @@ Aprendi bastante com cada um deles:
 - Utilizar o React Hook useContext
 - Utilizar o React Hook useEffect
 - Criar Hooks customizados
+<hr/>
 
 ## Tecnologias Utilizadas
 #### FrontEnd:
@@ -124,6 +130,7 @@ Aprendi bastante com cada um deles:
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/html2.png" width="50" height="50" alt="HTML Icon" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/CSS2.png" width="50" height="50" alt="CSS3 Icon" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/React2.png" width="50" height="50" alt="React Icon" /></a>
+<hr/>
 
 ## Como rodar a aplicação?
 - Clone o repositório: <br>
@@ -135,6 +142,7 @@ Aprendi bastante com cada um deles:
 - Inicie a aplicação: <br>
 `npm start` 
 <br>
+<hr/>
 
 ### Importante :warning:
 Este app foi desenvolvido com layout para dispositivos móveis (resolução recomendada: 360 x 640 de acordo com os requisitos de projeto). Por tanto, recomendo que acesse o site pelo celular e não pelo desktop ou notebook.
