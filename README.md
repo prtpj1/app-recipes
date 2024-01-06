@@ -126,7 +126,6 @@ Aprendi bastante com cada um deles:
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/React2.png" width="50" height="50" alt="React Icon" /></a>
 
 ## Como rodar a aplicação?
-
 - Clone o repositório: <br>
 `git clone git@github.com:prtpj1/recipes-app.git` 
 - Acesse a pasta do projeto: <br>
