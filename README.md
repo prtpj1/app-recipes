@@ -36,7 +36,7 @@ The use of Slack and Zoom was also crucial for the group's communication.
 
 It was not just a development task, but also involved communication and building good relationships. I'm pleased to have worked and grown alongside excellent programmers.
 
-##Team
+## Team
 I learned a lot from each of them
 - [Felipe](https://github.com/felipefraxe) 
 - [Ítalo](https://github.com/Italo9)
@@ -201,7 +201,7 @@ O uso do Slack e Zoom também foram muito importantes para a comunicação do gr
 
 Não foi apenas um trabalho de desenvolvimento, mas também de comunicação e bom relacionamento. Fico feliz em ter trabalhado e desenvolvido junto a ótimos programadores.
 
-##Grupo
+## Grupo
 Aprendi bastante com cada um deles
 - [Felipe](https://github.com/felipefraxe) 
 - [Ítalo](https://github.com/Italo9)
