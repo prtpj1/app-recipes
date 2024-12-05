@@ -1,4 +1,4 @@
-# 17º Projeo: Recipes Book
+# 17º Projeto: Recipes Book
 <p align="center">
   <img src="https://github.com/prtpj1/recipes-app/blob/main/images/Header_GitHub.png?raw=true" alt="Header" />
 </p>
